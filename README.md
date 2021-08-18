@@ -1,5 +1,7 @@
 # DouYinLiveDownloader-Python
- A Douyin Live Downloader written in python.
+ A Douyin **Live** Downloader written in python.
+ 
+ **LIVE ONLY**
  
 # instructions
 The ffmpeg must be in the $PATH directory.
